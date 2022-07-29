@@ -1,0 +1,1 @@
+This repository contains all the command prompt games that I tried to implement on my first years of coding. **All file *.cs have been left as they were.**
