@@ -9,3 +9,7 @@ It posseses two modes that can be used according to the first keyboard pressed.
 - _ : Human, you can :
   - play with the direction keyboards
   - pause : 'space'
+
+## Scrabble (French)
+
+This game needs a large command prompt and may not run in small command prompt of your IDE.
