@@ -13,3 +13,7 @@ It posseses two modes that can be used according to the first keyboard pressed.
 ## Scrabble (French)
 
 This game needs a large command prompt and may not run in small command prompt of your IDE.
+
+## Seven Wonders Duel (French)
+
+This game needs a large command prompt and may not run in small command prompt of your IDE.
