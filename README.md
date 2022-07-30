@@ -17,3 +17,8 @@ This game needs a large command prompt and may not run in small command prompt o
 ## Seven Wonders Duel (French)
 
 This game needs a large command prompt and may not run in small command prompt of your IDE.
+
+## 2048
+
+It posseses two modes that can be used according to the first keyboard pressed.
+- 'i' : AI, the game evolves alone
